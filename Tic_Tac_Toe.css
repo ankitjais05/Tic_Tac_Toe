@@ -1,0 +1,11 @@
+body{
+  background-color: #cccccc;
+}
+td{
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-weight: bold;
+  border: 8px solid black;
+  font-size: 100px;
+}
